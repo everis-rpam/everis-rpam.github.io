@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.3:1", "", "Criterion", "EARoot/EA1/EA3/EA47.htm", "5.png", "E101", "0", "", "Class0","{7DDE1814-B42D-4da7-81CA-5C91BA783A07}");
+tocTab[tocTab.length] = new Array("0.1.3:2", "", "Criterion Property", "EARoot/EA1/EA3/EA48.htm", "5.png", "E99", "0", "", "Class0","{71C5FE4D-5CDB-47a7-BB6F-BB67FF9BDF46}");
+tocTab[tocTab.length] = new Array("0.1.3:3", "", "Criterion Property Datum", "EARoot/EA1/EA3/EA49.htm", "5.png", "E100", "0", "", "Class0","{977C6B8B-D206-44ca-90F7-4854D13F5672}");
+tocTab[tocTab.length] = new Array("0.1.3:4", "", "Criterion Property Group", "EARoot/EA1/EA3/EA50.htm", "5.png", "E97", "0", "", "Class0","{EAC8ECBF-FBA1-4899-A636-FC93A8E4CD49}");
+tocTab[tocTab.length] = new Array("0.1.3:5", "", "Evidence", "EARoot/EA1/EA3/EA51.htm", "5.png", "E102", "0", "", "Class0","{73160692-7539-47c5-8667-C1D21DCE32C3}");
+tocTab[tocTab.length] = new Array("0.1.3:6", "", "Legislation", "EARoot/EA1/EA3/EA52.htm", "5.png", "E98", "0", "", "Class0","{0BD251C4-071E-4ba7-9255-2BAF5C7646D7}");

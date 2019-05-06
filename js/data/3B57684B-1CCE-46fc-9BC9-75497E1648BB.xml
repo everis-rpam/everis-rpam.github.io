@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.3:1", "", "UC-eAuthorisation", "EARoot/EA3/EA179.htm", "180.png", "16", "0", "", "Use Case diagram0","{F39D0EDD-2D65-428b-A7E7-350EB205C769}");
+tocTab[tocTab.length] = new Array("0.3:2", "", "UC-PUC", "EARoot/EA3/EA181.htm", "180.png", "17", "0", "", "Use Case diagram0","{BA867C78-CCF4-4fd1-A0F3-F909EE84002A}");
+tocTab[tocTab.length] = new Array("0.3:3", "", "eAuthorisation", "EARoot/EA3/EA184.htm", "7.png", "E195", "0", "", "UseCase0","{CD5DA358-37F3-4eae-87D1-C2D917FC1068}");
+tocTab[tocTab.length] = new Array("0.3:4", "", "eMandate Creation", "EARoot/EA3/EA185.htm", "7.png", "E199", "0", "", "UseCase0","{A2E24D77-2843-4354-B2A3-D849BF7829EA}");
+tocTab[tocTab.length] = new Array("0.3:5", "", "Empowerment", "EARoot/EA3/EA187.htm", "7.png", "E200", "0", "", "UseCase0","{81E990C2-FFE6-4938-AE8D-DAB30471C449}");
+tocTab[tocTab.length] = new Array("0.3:6", "", "Mandatee", "EARoot/EA3/EA188.htm", "6.png", "E202", "0", "", "Actor0","{C33B24C7-C022-4014-92E1-2B04C4C5397F}");
+tocTab[tocTab.length] = new Array("0.3:7", "", "Mandator", "EARoot/EA3/EA189.htm", "6.png", "E198", "0", "", "Actor0","{073752B6-E6D1-4a1a-997A-8594AD6B7F2E}");
+tocTab[tocTab.length] = new Array("0.3:8", "", "Power Limitation", "EARoot/EA3/EA190.htm", "7.png", "E201", "0", "", "UseCase0","{BFD455FE-0EDC-4a92-8F05-8D5BBF5AB028}");
+tocTab[tocTab.length] = new Array("0.3:9", "", "Service Provider", "EARoot/EA3/EA191.htm", "6.png", "E196", "0", "", "Actor0","{E6073975-6688-4d1a-9CFB-C1B2AE3057ED}");
+tocTab[tocTab.length] = new Array("0.3:10", "", "User (mandatee)", "EARoot/EA3/EA193.htm", "6.png", "E194", "0", "", "Actor0","{7CF4FE23-802E-484c-B206-D63EACB146F2}");
+tocTab[tocTab.length] = new Array("0.3.1", "1", "Actors", "EARoot/EA3/EA1/EA196.htm", "4.png", "", "", "{F18B6A3A-F5FD-4876-B8FF-88CA0DFE8183}", "Package");
+tocTab[tocTab.length] = new Array("0.3.2", "1", "Use Cases", "EARoot/EA3/EA2/EA199.htm", "4.png", "", "", "{EAC78FFE-2511-490b-BD34-21619F678405}", "Package");

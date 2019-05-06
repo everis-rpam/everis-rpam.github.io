@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Criterion</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA72.png" usemap="#EA72" border="0" />
+
+<MAP NAME="EA72">
+<area shape="rect" coords="542,868,887,913" href="EA82.htm" target="_self">
+<area shape="rect" coords="510,486,881,517" href="EA85.htm" target="_self">
+<area shape="rect" coords="219,484,465,518" href="EA86.htm" target="_self">
+<area shape="rect" coords="321,159,526,191" href="EA83.htm" target="_self">
+<area shape="rect" coords="302,259,526,298" href="EA84.htm" target="_self">
+<area shape="rect" coords="992,606,1171,707" href="./EA6/EA144.htm" target="_self">
+<area shape="rect" coords="730,744,906,808" href="./EA5/EA139.htm" target="_self">
+<area shape="rect" coords="750,569,937,680" href="./EA7/EA153.htm" target="_self">
+<area shape="rect" coords="371,708,549,822" href="./EA7/EA158.htm" target="_self">
+<area shape="rect" coords="371,568,574,656" href="./EA7/EA157.htm" target="_self">
+<area shape="rect" coords="450,65,609,135" href="./EA5/EA138.htm" target="_self">
+<area shape="rect" coords="376,348,526,447" href="./EA7/EA159.htm" target="_self">
+<area shape="rect" coords="794,287,969,453" href="./EA7/EA156.htm" target="_self">
+<area shape="rect" coords="10,35,256,175" href="./EA7/EA154.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Criterion : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">22/10/2018 16:10:47</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">28/03/2019 11:23:13</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">lbotapor</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{964DADEB-AB62-439c-B144-AC8DC23BECFB}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">g&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

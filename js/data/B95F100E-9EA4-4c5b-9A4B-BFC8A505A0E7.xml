@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.1.4:1", "", "Confidentiality Level Type", "EARoot/EA1/EA4/EA54.htm", "247.png", "E112", "0", "", "Enumeration0","{5A234D3B-8BCF-4c27-990A-8C4562A07E44}");
+tocTab[tocTab.length] = new Array("0.1.4:2", "", "Constraint", "EARoot/EA1/EA4/EA55.htm", "5.png", "E104", "0", "", "Class0","{B131E515-A27B-4ef8-A546-1B76837B423F}");
+tocTab[tocTab.length] = new Array("0.1.4:3", "", "Criterion Datum Type", "EARoot/EA1/EA4/EA56.htm", "247.png", "E107", "0", "", "Enumeration0","{31A627F1-3D30-4c5a-BA71-D0162550BC67}");
+tocTab[tocTab.length] = new Array("0.1.4:4", "", "eMandate Request", "EARoot/EA1/EA4/EA57.htm", "5.png", "E108", "0", "", "Class0","{B1EA8FB3-D3E1-4d7b-8DD4-42DD0317FC7A}");
+tocTab[tocTab.length] = new Array("0.1.4:5", "", "eMandate Response", "EARoot/EA1/EA4/EA58.htm", "5.png", "E114", "0", "", "Class0","{2EB734B4-69AE-4d3b-BEC5-C01AEAF9F31A}");
+tocTab[tocTab.length] = new Array("0.1.4:6", "", "ePower Request", "EARoot/EA1/EA4/EA59.htm", "5.png", "E109", "0", "", "Class0","{F90D5895-8143-4725-861C-2FA6A77413B4}");
+tocTab[tocTab.length] = new Array("0.1.4:7", "", "Evaluation Method Type", "EARoot/EA1/EA4/EA60.htm", "247.png", "E118", "0", "", "Enumeration0","{4FA8B8BD-9CB1-4264-9EF3-5C289DA43024}");
+tocTab[tocTab.length] = new Array("0.1.4:8", "", "LegaI Basis Identifier", "EARoot/EA1/EA4/EA61.htm", "247.png", "E116", "0", "", "Enumeration0","{95A92797-F440-4e25-81A1-620C7918FCEF}");
+tocTab[tocTab.length] = new Array("0.1.4:9", "", "Mandatee", "EARoot/EA1/EA4/EA62.htm", "5.png", "E111", "0", "", "Class0","{BDCEC165-F771-42c5-8901-1282DD4041F1}");
+tocTab[tocTab.length] = new Array("0.1.4:10", "", "Mandator", "EARoot/EA1/EA4/EA63.htm", "5.png", "E105", "0", "", "Class0","{1DCEECCC-CEBE-4993-A9E0-CFAAA6C007B0}");
+tocTab[tocTab.length] = new Array("0.1.4:11", "", "NUTS Code", "EARoot/EA1/EA4/EA64.htm", "247.png", "E117", "0", "", "Enumeration0","{F909A53A-A766-4340-9238-47600FD946D9}");
+tocTab[tocTab.length] = new Array("0.1.4:12", "", "Power", "EARoot/EA1/EA4/EA65.htm", "5.png", "E110", "0", "", "Class0","{7205F38A-BB4C-4c3b-AD17-72FCC4ECCE15}");
+tocTab[tocTab.length] = new Array("0.1.4:13", "", "Power Datum Type", "EARoot/EA1/EA4/EA66.htm", "5.png", "E106", "0", "", "Class0","{9F552C53-7712-4a86-B319-6C7F24184E62}");
+tocTab[tocTab.length] = new Array("0.1.4:14", "", "Service Requirement", "EARoot/EA1/EA4/EA67.htm", "5.png", "E115", "0", "", "Class0","{B7F573B7-2530-4d98-A102-1EB02095424B}");
+tocTab[tocTab.length] = new Array("0.1.4:15", "", "Status Type Code", "EARoot/EA1/EA4/EA68.htm", "247.png", "E119", "0", "", "Enumeration0","{2E2FBB41-E806-40c7-91C1-0646BA6B2A5A}");
