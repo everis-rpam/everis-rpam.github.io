@@ -1,3 +1,3 @@
 tocTab[tocTab.length] = new Array("0.1", "1", "CPSV-AP-Extended", "EARoot/EA1/EA11.htm", "31.png", "", "", "{CA82081C-386D-4c12-8056-5ADE66F04B94}", "Package");
 tocTab[tocTab.length] = new Array("0.2", "1", "RPaM", "EARoot/EA2/EA81.htm", "31.png", "", "", "{676DC919-4BA4-415e-9F16-54DD03A4C110}", "Package");
-tocTab[tocTab.length] = new Array("0.3", "1", "RPaM Use Cases", "EARoot/EA3/EA183.htm", "34.png", "", "", "{3B57684B-1CCE-46fc-9BC9-75497E1648BB}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "RPaM Use Cases", "EARoot/EA3/EA184.htm", "34.png", "", "", "{3B57684B-1CCE-46fc-9BC9-75497E1648BB}", "Package");
